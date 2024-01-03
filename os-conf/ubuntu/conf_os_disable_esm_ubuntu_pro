@@ -1,1 +1,2 @@
-Comments this file for turn off Ubuntu Pro 'esm' updates
+Comments included data in this file for turn off Ubuntu Pro 'esm' updates
+/etc/apt/apt.conf.d/20apt-esm-hook.conf
